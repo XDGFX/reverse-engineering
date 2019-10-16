@@ -1,8 +1,14 @@
 # User Experience
 
-Here are a few extra bits of info that I couldn't fit into the poster. They are referenced in the poster with Greek letters (because they look cool).
+Here are some non-vital extra bits of info that I couldn't fit into the poster.
 
 ## Packaging
-[Δ Colour](colour/colour.md)
+[Colour](colour/colour.md)
 
-[Θ Packaging](box/box.md)
+[Packaging](box/box.md)
+
+[Branding](branding/branding.md)
+
+[The Product](product/product.md)
+
+[First Use](first-use/first-use.md)
