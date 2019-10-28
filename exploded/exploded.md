@@ -9,6 +9,6 @@ Each component was placed in the softbox and a photo was taken one at a time
 ![](IMG_20191020_171500.jpg)
 Health and safety gone mad! Good thing we had our induction at the start of the year.
 
-The resultant ~200 photos (I might have missed some screws...) were then colour graded and manually stitched together in Photoshop to create the final 120 megapixel image.
+The resultant ~200 photos (I might have missed some screws...) were then colour graded and manually stitched together in Photoshop to create the final 132 megapixel image.
 
 ![](/reverse-engineering/master-files/exploded-diagram.png)
