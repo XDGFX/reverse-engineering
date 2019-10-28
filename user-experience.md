@@ -2,7 +2,6 @@
 
 Here are some non-vital extra bits of info that I couldn't fit into the poster.
 
-## Packaging
 [Colour](colour/colour.md)
 
 [Packaging](box/box.md)
